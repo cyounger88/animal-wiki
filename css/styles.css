@@ -1,0 +1,28 @@
+#raccoon, #goat, #squirrel {
+  display: none;
+}
+
+h1 {
+  text-align:center;
+}
+
+#squirrel {
+  text-align: center;
+  background-image: url("/Users/Guest/desktop/animal-wiki/img/acorns.jpg");
+  color: white;
+  height:1000px;
+}
+
+#goat {
+  text-align: center;
+  background-image: url("/Users/Guest/desktop/animal-wiki/img/sleeping-goat.jpg");
+  color: white;
+  height:1000px;
+}
+
+#raccoon {
+  text-align: center;
+  background-image: url("/Users/Guest/desktop/animal-wiki/img/marshmallows.jpg");
+  color: white;
+  height:1000px;
+}
